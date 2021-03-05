@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#shoes {
+    margin-top: 10% !important;
+}
+#backpack {
+    margin-top: 10% !important;
+}
+.panda-slide {
+    margin-top: 15%;
+    border-radius: 15px;
+}
+.slide-pad {
+    padding: 0 50px;
+}
+.panda-slide .carousel-item {
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.panda-card {
+    border: 0;
+    border-radius: 10px;
+}
+.catagories {
+    margin-top: 15% !important;
+    padding: 0;
+    border-radius: 10px;
+}
+.catagories img {
+    width: 100px;
+}
+#subscribe {
+    margin-top: 10%;
+    background-color: #fceae8 !important;
+    border-radius: 10px;
+}
+input {
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    outline: none;
+}
